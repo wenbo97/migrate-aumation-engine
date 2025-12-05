@@ -1,0 +1,596 @@
+[
+    {
+        "NupkgName":  "HADagConfigurations.nupkg.proj",
+        "InputTokenCount":  1332,
+        "OutputTokenCount":  632,
+        "TotalTokenCount":  1964
+    },
+    {
+        "NupkgName":  "AzureManagement.Automation.nupkg.proj",
+        "InputTokenCount":  1367,
+        "OutputTokenCount":  464,
+        "TotalTokenCount":  1831
+    },
+    {
+        "NupkgName":  "AzureManagement.Validation.nupkg.proj",
+        "InputTokenCount":  1255,
+        "OutputTokenCount":  575,
+        "TotalTokenCount":  1830
+    },
+    {
+        "NupkgName":  "IPClassification.nupkg.proj",
+        "InputTokenCount":  1271,
+        "OutputTokenCount":  630,
+        "TotalTokenCount":  1901
+    },
+    {
+        "NupkgName":  "Deployment.CloudStorage.nupkg.proj",
+        "InputTokenCount":  1275,
+        "OutputTokenCount":  632,
+        "TotalTokenCount":  1907
+    },
+    {
+        "NupkgName":  "Deployment.ComponentFramework.nupkg.proj",
+        "InputTokenCount":  1625,
+        "OutputTokenCount":  1166,
+        "TotalTokenCount":  2791
+    },
+    {
+        "NupkgName":  "Deployment.ConfigurationDb.nupkg.proj",
+        "InputTokenCount":  1204,
+        "OutputTokenCount":  295,
+        "TotalTokenCount":  1499
+    },
+    {
+        "NupkgName":  "Deployment.Monitoring.nupkg.proj",
+        "InputTokenCount":  1289,
+        "OutputTokenCount":  642,
+        "TotalTokenCount":  1931
+    },
+    {
+        "NupkgName":  "Deployment.MSIExtractor.nupkg.proj",
+        "InputTokenCount":  1308,
+        "OutputTokenCount":  641,
+        "TotalTokenCount":  1949
+    },
+    {
+        "NupkgName":  "Deployment.SxS.nupkg.proj",
+        "InputTokenCount":  1669,
+        "OutputTokenCount":  938,
+        "TotalTokenCount":  2607
+    },
+    {
+        "NupkgName":  "CentralAdminVersion.nupkg.proj",
+        "InputTokenCount":  1149,
+        "OutputTokenCount":  993,
+        "TotalTokenCount":  2142
+    },
+    {
+        "NupkgName":  "OldCentralAdminRuntime.nupkg.proj",
+        "InputTokenCount":  1043,
+        "OutputTokenCount":  1253,
+        "TotalTokenCount":  2296
+    },
+    {
+        "NupkgName":  "SchedulerSDK.nupkg.proj",
+        "InputTokenCount":  1529,
+        "OutputTokenCount":  570,
+        "TotalTokenCount":  2099
+    },
+    {
+        "NupkgName":  "WorkflowSDK.nupkg.proj",
+        "InputTokenCount":  3000,
+        "OutputTokenCount":  2552,
+        "TotalTokenCount":  5552
+    },
+    {
+        "NupkgName":  "CentralAdminInjection.Client.nupkg.proj",
+        "InputTokenCount":  1235,
+        "OutputTokenCount":  615,
+        "TotalTokenCount":  1850
+    },
+    {
+        "NupkgName":  "ChaosEngineeringMoxy.nupkg.proj",
+        "InputTokenCount":  1223,
+        "OutputTokenCount":  615,
+        "TotalTokenCount":  1838
+    },
+    {
+        "NupkgName":  "NetLib.nupkg.proj",
+        "InputTokenCount":  1231,
+        "OutputTokenCount":  358,
+        "TotalTokenCount":  1589
+    },
+    {
+        "NupkgName":  "WorkflowTriggerWebApi.Client.nupkg.proj",
+        "InputTokenCount":  1243,
+        "OutputTokenCount":  297,
+        "TotalTokenCount":  1540
+    },
+    {
+        "NupkgName":  "SqlConfiguration.nupkg.csproj",
+        "InputTokenCount":  1193,
+        "OutputTokenCount":  546,
+        "TotalTokenCount":  1739
+    },
+    {
+        "NupkgName":  "InventoryEntities.nupkg.proj",
+        "InputTokenCount":  1243,
+        "OutputTokenCount":  418,
+        "TotalTokenCount":  1661
+    },
+    {
+        "NupkgName":  "torus.exchangeSecrets.nupkg.proj",
+        "InputTokenCount":  1529,
+        "OutputTokenCount":  954,
+        "TotalTokenCount":  2483
+    },
+    {
+        "NupkgName":  "torus.griffinSecrets.nupkg.proj",
+        "InputTokenCount":  1580,
+        "OutputTokenCount":  830,
+        "TotalTokenCount":  2410
+    },
+    {
+        "NupkgName":  "FlightTrainBuild.nupkg.proj",
+        "InputTokenCount":  1399,
+        "OutputTokenCount":  959,
+        "TotalTokenCount":  2358
+    },
+    {
+        "NupkgName":  "GdcoTicketing.nupkg.proj",
+        "InputTokenCount":  1283,
+        "OutputTokenCount":  613,
+        "TotalTokenCount":  1896
+    },
+    {
+        "NupkgName":  "Griffin.Interop.nupkg.proj",
+        "InputTokenCount":  1210,
+        "OutputTokenCount":  501,
+        "TotalTokenCount":  1711
+    },
+    {
+        "NupkgName":  "Griffin.Ev2.Samples.nupkg.proj",
+        "InputTokenCount":  1254,
+        "OutputTokenCount":  950,
+        "TotalTokenCount":  2204
+    },
+    {
+        "NupkgName":  "PowerHarvestingStorageClient.nupkg.proj",
+        "InputTokenCount":  1280,
+        "OutputTokenCount":  468,
+        "TotalTokenCount":  1748
+    },
+    {
+        "NupkgName":  "DispatchService.nupkg.proj",
+        "InputTokenCount":  1196,
+        "OutputTokenCount":  235,
+        "TotalTokenCount":  1431
+    },
+    {
+        "NupkgName":  "IcmIncidentProvider.nupkg.proj",
+        "InputTokenCount":  1161,
+        "OutputTokenCount":  356,
+        "TotalTokenCount":  1517
+    },
+    {
+        "NupkgName":  "IntelligentExceptionAnalyst.nupkg.proj",
+        "InputTokenCount":  1167,
+        "OutputTokenCount":  228,
+        "TotalTokenCount":  1395
+    },
+    {
+        "NupkgName":  "InventoryClientV2.Std.nupkg.proj",
+        "InputTokenCount":  1235,
+        "OutputTokenCount":  362,
+        "TotalTokenCount":  1597
+    },
+    {
+        "NupkgName":  "SubstrateInventorySDK.nupkg.proj",
+        "InputTokenCount":  1558,
+        "OutputTokenCount":  2074,
+        "TotalTokenCount":  3632
+    },
+    {
+        "NupkgName":  "SubstrateInventorySDK.SdkStyle.nupkg.csproj",
+        "InputTokenCount":  1219,
+        "OutputTokenCount":  424,
+        "TotalTokenCount":  1643
+    },
+    {
+        "NupkgName":  "CompliancePackApp.nupkg.proj",
+        "InputTokenCount":  1351,
+        "OutputTokenCount":  702,
+        "TotalTokenCount":  2053
+    },
+    {
+        "NupkgName":  "GriffinRuntime.Bootstrap.nupkg.proj",
+        "InputTokenCount":  1268,
+        "OutputTokenCount":  810,
+        "TotalTokenCount":  2078
+    },
+    {
+        "NupkgName":  "Kevlar.CloudService.nupkg.proj",
+        "InputTokenCount":  1260,
+        "OutputTokenCount":  553,
+        "TotalTokenCount":  1813
+    },
+    {
+        "NupkgName":  "Kevlar.ServiceFabric.nupkg.proj",
+        "InputTokenCount":  1349,
+        "OutputTokenCount":  574,
+        "TotalTokenCount":  1923
+    },
+    {
+        "NupkgName":  "Kevlar.VirtualMachine.nupkg.proj",
+        "InputTokenCount":  1261,
+        "OutputTokenCount":  873,
+        "TotalTokenCount":  2134
+    },
+    {
+        "NupkgName":  "KillSwitchBuild.nupkg.proj",
+        "InputTokenCount":  1399,
+        "OutputTokenCount":  319,
+        "TotalTokenCount":  1718
+    },
+    {
+        "NupkgName":  "KustoAccess.nupkg.proj",
+        "InputTokenCount":  1190,
+        "OutputTokenCount":  294,
+        "TotalTokenCount":  1484
+    },
+    {
+        "NupkgName":  "LegacyInventory.nupkg.proj",
+        "InputTokenCount":  1178,
+        "OutputTokenCount":  154,
+        "TotalTokenCount":  1332
+    },
+    {
+        "NupkgName":  "lockbox.client.nupkg.proj",
+        "InputTokenCount":  1284,
+        "OutputTokenCount":  977,
+        "TotalTokenCount":  2261
+    },
+    {
+        "NupkgName":  "LockboxReleaseTask.Client.nupkg.proj",
+        "InputTokenCount":  1146,
+        "OutputTokenCount":  233,
+        "TotalTokenCount":  1379
+    },
+    {
+        "NupkgName":  "AcdcDnsRecordsReader.nupkg.csproj",
+        "InputTokenCount":  1253,
+        "OutputTokenCount":  470,
+        "TotalTokenCount":  1723
+    },
+    {
+        "NupkgName":  "AcdcEntities.nupkg.proj",
+        "InputTokenCount":  1166,
+        "OutputTokenCount":  165,
+        "TotalTokenCount":  1331
+    },
+    {
+        "NupkgName":  "AzureStorageClient.nupkg.proj",
+        "InputTokenCount":  1192,
+        "OutputTokenCount":  565,
+        "TotalTokenCount":  1757
+    },
+    {
+        "NupkgName":  "CoreUtils.nupkg.proj",
+        "InputTokenCount":  1262,
+        "OutputTokenCount":  347,
+        "TotalTokenCount":  1609
+    },
+    {
+        "NupkgName":  "DeviceTemplatesConfiguration.nupkg.proj",
+        "InputTokenCount":  1163,
+        "OutputTokenCount":  421,
+        "TotalTokenCount":  1584
+    },
+    {
+        "NupkgName":  "DnsApiClient.nupkg.proj",
+        "InputTokenCount":  1227,
+        "OutputTokenCount":  505,
+        "TotalTokenCount":  1732
+    },
+    {
+        "NupkgName":  "DnsStoreOperations.nupkg.proj",
+        "InputTokenCount":  961,
+        "OutputTokenCount":  293,
+        "TotalTokenCount":  1254
+    },
+    {
+        "NupkgName":  "ExchangeBranchConnect.nupkg.proj",
+        "InputTokenCount":  1169,
+        "OutputTokenCount":  229,
+        "TotalTokenCount":  1398
+    },
+    {
+        "NupkgName":  "HardwareProxyClient.nupkg.proj",
+        "InputTokenCount":  1165,
+        "OutputTokenCount":  485,
+        "TotalTokenCount":  1650
+    },
+    {
+        "NupkgName":  "KustoFactory.nupkg.proj",
+        "InputTokenCount":  1166,
+        "OutputTokenCount":  420,
+        "TotalTokenCount":  1586
+    },
+    {
+        "NupkgName":  "Nexus.nupkg.proj",
+        "InputTokenCount":  1492,
+        "OutputTokenCount":  823,
+        "TotalTokenCount":  2315
+    },
+    {
+        "NupkgName":  "ServiceRegistry.nupkg.proj",
+        "InputTokenCount":  1164,
+        "OutputTokenCount":  164,
+        "TotalTokenCount":  1328
+    },
+    {
+        "NupkgName":  "VstsClient.nupkg.proj",
+        "InputTokenCount":  1163,
+        "OutputTokenCount":  485,
+        "TotalTokenCount":  1648
+    },
+    {
+        "NupkgName":  "WinSnmpApi.nupkg.proj",
+        "InputTokenCount":  1206,
+        "OutputTokenCount":  246,
+        "TotalTokenCount":  1452
+    },
+    {
+        "NupkgName":  "WmiDnsClient.nupkg.proj",
+        "InputTokenCount":  1229,
+        "OutputTokenCount":  634,
+        "TotalTokenCount":  1863
+    },
+    {
+        "NupkgName":  "CPERepairAnalyzer.nupkg.proj",
+        "InputTokenCount":  1195,
+        "OutputTokenCount":  422,
+        "TotalTokenCount":  1617
+    },
+    {
+        "NupkgName":  "CPERepairAudit.nupkg.proj",
+        "InputTokenCount":  1183,
+        "OutputTokenCount":  480,
+        "TotalTokenCount":  1663
+    },
+    {
+        "NupkgName":  "MonitoringCPEv2.nupkg.proj",
+        "InputTokenCount":  1281,
+        "OutputTokenCount":  950,
+        "TotalTokenCount":  2231
+    },
+    {
+        "NupkgName":  "Onefleet.EcsClient.nupkg.proj",
+        "InputTokenCount":  1210,
+        "OutputTokenCount":  229,
+        "TotalTokenCount":  1439
+    },
+    {
+        "NupkgName":  "RepairManagementSDK.nupkg.proj",
+        "InputTokenCount":  1461,
+        "OutputTokenCount":  945,
+        "TotalTokenCount":  2406
+    },
+    {
+        "NupkgName":  "OobmToolKit.nupkg.proj",
+        "InputTokenCount":  1211,
+        "OutputTokenCount":  247,
+        "TotalTokenCount":  1458
+    },
+    {
+        "NupkgName":  "Sdk.nupkg.proj",
+        "InputTokenCount":  1569,
+        "OutputTokenCount":  598,
+        "TotalTokenCount":  2167
+    },
+    {
+        "NupkgName":  "ComponentFlightingLibrary.nupkg.proj",
+        "InputTokenCount":  1192,
+        "OutputTokenCount":  410,
+        "TotalTokenCount":  1602
+    },
+    {
+        "NupkgName":  "Ecs.Workflows.nupkg.proj",
+        "InputTokenCount":  1152,
+        "OutputTokenCount":  365,
+        "TotalTokenCount":  1517
+    },
+    {
+        "NupkgName":  "AutoRollingAzure.nupkg.proj",
+        "InputTokenCount":  1369,
+        "OutputTokenCount":  703,
+        "TotalTokenCount":  2072
+    },
+    {
+        "NupkgName":  "SecureCode.Common.nupkg.proj",
+        "InputTokenCount":  1195,
+        "OutputTokenCount":  611,
+        "TotalTokenCount":  1806
+    },
+    {
+        "NupkgName":  "RepeatableLocalPassword.nupkg.proj",
+        "InputTokenCount":  1567,
+        "OutputTokenCount":  1095,
+        "TotalTokenCount":  2662
+    },
+    {
+        "NupkgName":  "TLSConfigurationV5b.nupkg.proj",
+        "InputTokenCount":  1237,
+        "OutputTokenCount":  751,
+        "TotalTokenCount":  1988
+    },
+    {
+        "NupkgName":  "TLSConfigurationV5e.nupkg.proj",
+        "InputTokenCount":  1237,
+        "OutputTokenCount":  495,
+        "TotalTokenCount":  1732
+    },
+    {
+        "NupkgName":  "TLSConfigurationV5f.nupkg.proj",
+        "InputTokenCount":  1237,
+        "OutputTokenCount":  623,
+        "TotalTokenCount":  1860
+    },
+    {
+        "NupkgName":  "CredSMARTAzureSdk.nupkg.proj",
+        "InputTokenCount":  1454,
+        "OutputTokenCount":  820,
+        "TotalTokenCount":  2274
+    },
+    {
+        "NupkgName":  "CredSMARTForCosmic.nupkg.proj",
+        "InputTokenCount":  1216,
+        "OutputTokenCount":  506,
+        "TotalTokenCount":  1722
+    },
+    {
+        "NupkgName":  "DmsSdk.nupkg.proj",
+        "InputTokenCount":  2752,
+        "OutputTokenCount":  3118,
+        "TotalTokenCount":  5870
+    },
+    {
+        "NupkgName":  "FIDO2MetadataService.nupkg.proj",
+        "InputTokenCount":  1206,
+        "OutputTokenCount":  697,
+        "TotalTokenCount":  1903
+    },
+    {
+        "NupkgName":  "FIDO2WebAuthNProtocol.nupkg.proj",
+        "InputTokenCount":  1214,
+        "OutputTokenCount":  447,
+        "TotalTokenCount":  1661
+    },
+    {
+        "NupkgName":  "torus.nupkg.proj",
+        "InputTokenCount":  7194,
+        "OutputTokenCount":  8010,
+        "TotalTokenCount":  15204
+    },
+    {
+        "NupkgName":  "toruspacked.nupkg.proj",
+        "InputTokenCount":  1219,
+        "OutputTokenCount":  428,
+        "TotalTokenCount":  1647
+    },
+    {
+        "NupkgName":  "torus.sdk.nupkg.proj",
+        "InputTokenCount":  3280,
+        "OutputTokenCount":  2048,
+        "TotalTokenCount":  5328
+    },
+    {
+        "NupkgName":  "SecretsBootstrapper.nupkg.proj",
+        "InputTokenCount":  1307,
+        "OutputTokenCount":  1357,
+        "TotalTokenCount":  2664
+    },
+    {
+        "NupkgName":  "SubstrateApp.sdk.nupkg.proj",
+        "InputTokenCount":  1540,
+        "OutputTokenCount":  1329,
+        "TotalTokenCount":  2869
+    },
+    {
+        "NupkgName":  "SubstrateDeployment.nupkg.proj",
+        "InputTokenCount":  2070,
+        "OutputTokenCount":  1863,
+        "TotalTokenCount":  3933
+    },
+    {
+        "NupkgName":  "SubstrateDeploymentPacked.nupkg.proj",
+        "InputTokenCount":  1226,
+        "OutputTokenCount":  429,
+        "TotalTokenCount":  1655
+    },
+    {
+        "NupkgName":  "Torus.NetCore.nupkg.proj",
+        "InputTokenCount":  2557,
+        "OutputTokenCount":  1462,
+        "TotalTokenCount":  4019
+    },
+    {
+        "NupkgName":  "TorusAzureManagement.sdk.nupkg.proj",
+        "InputTokenCount":  1544,
+        "OutputTokenCount":  880,
+        "TotalTokenCount":  2424
+    },
+    {
+        "NupkgName":  "TorusBuild.nupkg.proj",
+        "InputTokenCount":  2517,
+        "OutputTokenCount":  2048,
+        "TotalTokenCount":  4565
+    },
+    {
+        "NupkgName":  "TorusClientHostIds.nupkg.proj",
+        "InputTokenCount":  1294,
+        "OutputTokenCount":  492,
+        "TotalTokenCount":  1786
+    },
+    {
+        "NupkgName":  "TorusClientV2.nupkg.proj",
+        "InputTokenCount":  3162,
+        "OutputTokenCount":  2696,
+        "TotalTokenCount":  5858
+    },
+    {
+        "NupkgName":  "TorusCommonInterfaces.nupkg.proj",
+        "InputTokenCount":  1199,
+        "OutputTokenCount":  368,
+        "TotalTokenCount":  1567
+    },
+    {
+        "NupkgName":  "TorusMiniWorker.nupkg.proj",
+        "InputTokenCount":  1220,
+        "OutputTokenCount":  300,
+        "TotalTokenCount":  1520
+    },
+    {
+        "NupkgName":  "WorkflowSecurity.nupkg.proj",
+        "InputTokenCount":  1421,
+        "OutputTokenCount":  829,
+        "TotalTokenCount":  2250
+    },
+    {
+        "NupkgName":  "zippedsdpacked.nupkg.proj",
+        "InputTokenCount":  1229,
+        "OutputTokenCount":  431,
+        "TotalTokenCount":  1660
+    },
+    {
+        "NupkgName":  "zippedtoruspacked.nupkg.proj",
+        "InputTokenCount":  1224,
+        "OutputTokenCount":  621,
+        "TotalTokenCount":  1845
+    },
+    {
+        "NupkgName":  "WinPE.nupkg.proj",
+        "InputTokenCount":  1319,
+        "OutputTokenCount":  457,
+        "TotalTokenCount":  1776
+    },
+    {
+        "NupkgName":  "ClrSecurity.Cryptography.nupkg.proj",
+        "InputTokenCount":  1176,
+        "OutputTokenCount":  288,
+        "TotalTokenCount":  1464
+    },
+    {
+        "NupkgName":  "SignedPackageSample.nupkg.proj",
+        "InputTokenCount":  1224,
+        "OutputTokenCount":  346,
+        "TotalTokenCount":  1570
+    },
+    {
+        "NupkgName":  "WorkflowLateBindingGenerator.nupkg.proj",
+        "InputTokenCount":  1262,
+        "OutputTokenCount":  1073,
+        "TotalTokenCount":  2335
+    }
+]

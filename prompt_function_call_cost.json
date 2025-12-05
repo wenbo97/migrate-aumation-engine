@@ -1,0 +1,596 @@
+[
+    {
+        "NupkgName":  "HADagConfigurations.nupkg.proj",
+        "InputTokenCost":  0.00033299999999999996,
+        "OutputTokenCost":  0.001264,
+        "TotalTokenCost":  0.001597
+    },
+    {
+        "NupkgName":  "AzureManagement.Automation.nupkg.proj",
+        "InputTokenCost":  0.00034175,
+        "OutputTokenCost":  0.000928,
+        "TotalTokenCost":  0.00126975
+    },
+    {
+        "NupkgName":  "AzureManagement.Validation.nupkg.proj",
+        "InputTokenCost":  0.00031375,
+        "OutputTokenCost":  0.00115,
+        "TotalTokenCost":  0.00146375
+    },
+    {
+        "NupkgName":  "IPClassification.nupkg.proj",
+        "InputTokenCost":  0.00031775,
+        "OutputTokenCost":  0.0012599999999999998,
+        "TotalTokenCost":  0.0015777499999999997
+    },
+    {
+        "NupkgName":  "Deployment.CloudStorage.nupkg.proj",
+        "InputTokenCost":  0.00031874999999999997,
+        "OutputTokenCost":  0.001264,
+        "TotalTokenCost":  0.00158275
+    },
+    {
+        "NupkgName":  "Deployment.ComponentFramework.nupkg.proj",
+        "InputTokenCost":  0.00040625,
+        "OutputTokenCost":  0.002332,
+        "TotalTokenCost":  0.00273825
+    },
+    {
+        "NupkgName":  "Deployment.ConfigurationDb.nupkg.proj",
+        "InputTokenCost":  0.000301,
+        "OutputTokenCost":  0.00058999999999999992,
+        "TotalTokenCost":  0.00089099999999999987
+    },
+    {
+        "NupkgName":  "Deployment.Monitoring.nupkg.proj",
+        "InputTokenCost":  0.00032225,
+        "OutputTokenCost":  0.001284,
+        "TotalTokenCost":  0.00160625
+    },
+    {
+        "NupkgName":  "Deployment.MSIExtractor.nupkg.proj",
+        "InputTokenCost":  0.000327,
+        "OutputTokenCost":  0.001282,
+        "TotalTokenCost":  0.001609
+    },
+    {
+        "NupkgName":  "Deployment.SxS.nupkg.proj",
+        "InputTokenCost":  0.00041725,
+        "OutputTokenCost":  0.0018759999999999998,
+        "TotalTokenCost":  0.0022932499999999997
+    },
+    {
+        "NupkgName":  "CentralAdminVersion.nupkg.proj",
+        "InputTokenCost":  0.00028724999999999996,
+        "OutputTokenCost":  0.001986,
+        "TotalTokenCost":  0.00227325
+    },
+    {
+        "NupkgName":  "OldCentralAdminRuntime.nupkg.proj",
+        "InputTokenCost":  0.00026074999999999997,
+        "OutputTokenCost":  0.002506,
+        "TotalTokenCost":  0.00276675
+    },
+    {
+        "NupkgName":  "SchedulerSDK.nupkg.proj",
+        "InputTokenCost":  0.00038225,
+        "OutputTokenCost":  0.00114,
+        "TotalTokenCost":  0.00152225
+    },
+    {
+        "NupkgName":  "WorkflowSDK.nupkg.proj",
+        "InputTokenCost":  0.00075,
+        "OutputTokenCost":  0.005104,
+        "TotalTokenCost":  0.005854
+    },
+    {
+        "NupkgName":  "CentralAdminInjection.Client.nupkg.proj",
+        "InputTokenCost":  0.00030875,
+        "OutputTokenCost":  0.00123,
+        "TotalTokenCost":  0.00153875
+    },
+    {
+        "NupkgName":  "ChaosEngineeringMoxy.nupkg.proj",
+        "InputTokenCost":  0.00030575,
+        "OutputTokenCost":  0.00123,
+        "TotalTokenCost":  0.00153575
+    },
+    {
+        "NupkgName":  "NetLib.nupkg.proj",
+        "InputTokenCost":  0.00030774999999999997,
+        "OutputTokenCost":  0.000716,
+        "TotalTokenCost":  0.00102375
+    },
+    {
+        "NupkgName":  "WorkflowTriggerWebApi.Client.nupkg.proj",
+        "InputTokenCost":  0.00031075,
+        "OutputTokenCost":  0.000594,
+        "TotalTokenCost":  0.00090475
+    },
+    {
+        "NupkgName":  "SqlConfiguration.nupkg.csproj",
+        "InputTokenCost":  0.00029825,
+        "OutputTokenCost":  0.0010919999999999999,
+        "TotalTokenCost":  0.00139025
+    },
+    {
+        "NupkgName":  "InventoryEntities.nupkg.proj",
+        "InputTokenCost":  0.00031075,
+        "OutputTokenCost":  0.00083599999999999994,
+        "TotalTokenCost":  0.00114675
+    },
+    {
+        "NupkgName":  "torus.exchangeSecrets.nupkg.proj",
+        "InputTokenCost":  0.00038225,
+        "OutputTokenCost":  0.001908,
+        "TotalTokenCost":  0.0022902499999999998
+    },
+    {
+        "NupkgName":  "torus.griffinSecrets.nupkg.proj",
+        "InputTokenCost":  0.000395,
+        "OutputTokenCost":  0.00166,
+        "TotalTokenCost":  0.002055
+    },
+    {
+        "NupkgName":  "FlightTrainBuild.nupkg.proj",
+        "InputTokenCost":  0.00034974999999999996,
+        "OutputTokenCost":  0.001918,
+        "TotalTokenCost":  0.00226775
+    },
+    {
+        "NupkgName":  "GdcoTicketing.nupkg.proj",
+        "InputTokenCost":  0.00032074999999999996,
+        "OutputTokenCost":  0.0012259999999999999,
+        "TotalTokenCost":  0.00154675
+    },
+    {
+        "NupkgName":  "Griffin.Interop.nupkg.proj",
+        "InputTokenCost":  0.0003025,
+        "OutputTokenCost":  0.0010019999999999999,
+        "TotalTokenCost":  0.0013044999999999999
+    },
+    {
+        "NupkgName":  "Griffin.Ev2.Samples.nupkg.proj",
+        "InputTokenCost":  0.0003135,
+        "OutputTokenCost":  0.0019,
+        "TotalTokenCost":  0.0022135
+    },
+    {
+        "NupkgName":  "PowerHarvestingStorageClient.nupkg.proj",
+        "InputTokenCost":  0.00031999999999999997,
+        "OutputTokenCost":  0.000936,
+        "TotalTokenCost":  0.001256
+    },
+    {
+        "NupkgName":  "DispatchService.nupkg.proj",
+        "InputTokenCost":  0.000299,
+        "OutputTokenCost":  0.00047,
+        "TotalTokenCost":  0.00076899999999999994
+    },
+    {
+        "NupkgName":  "IcmIncidentProvider.nupkg.proj",
+        "InputTokenCost":  0.00029025,
+        "OutputTokenCost":  0.000712,
+        "TotalTokenCost":  0.0010022499999999999
+    },
+    {
+        "NupkgName":  "IntelligentExceptionAnalyst.nupkg.proj",
+        "InputTokenCost":  0.00029174999999999996,
+        "OutputTokenCost":  0.00045599999999999997,
+        "TotalTokenCost":  0.00074774999999999993
+    },
+    {
+        "NupkgName":  "InventoryClientV2.Std.nupkg.proj",
+        "InputTokenCost":  0.00030875,
+        "OutputTokenCost":  0.00072399999999999993,
+        "TotalTokenCost":  0.0010327499999999998
+    },
+    {
+        "NupkgName":  "SubstrateInventorySDK.nupkg.proj",
+        "InputTokenCost":  0.0003895,
+        "OutputTokenCost":  0.004148,
+        "TotalTokenCost":  0.0045375
+    },
+    {
+        "NupkgName":  "SubstrateInventorySDK.SdkStyle.nupkg.csproj",
+        "InputTokenCost":  0.00030475,
+        "OutputTokenCost":  0.000848,
+        "TotalTokenCost":  0.0011527500000000001
+    },
+    {
+        "NupkgName":  "CompliancePackApp.nupkg.proj",
+        "InputTokenCost":  0.00033775,
+        "OutputTokenCost":  0.0014039999999999999,
+        "TotalTokenCost":  0.0017417499999999998
+    },
+    {
+        "NupkgName":  "GriffinRuntime.Bootstrap.nupkg.proj",
+        "InputTokenCost":  0.000317,
+        "OutputTokenCost":  0.00162,
+        "TotalTokenCost":  0.001937
+    },
+    {
+        "NupkgName":  "Kevlar.CloudService.nupkg.proj",
+        "InputTokenCost":  0.00031499999999999996,
+        "OutputTokenCost":  0.001106,
+        "TotalTokenCost":  0.001421
+    },
+    {
+        "NupkgName":  "Kevlar.ServiceFabric.nupkg.proj",
+        "InputTokenCost":  0.00033725,
+        "OutputTokenCost":  0.001148,
+        "TotalTokenCost":  0.00148525
+    },
+    {
+        "NupkgName":  "Kevlar.VirtualMachine.nupkg.proj",
+        "InputTokenCost":  0.00031525,
+        "OutputTokenCost":  0.001746,
+        "TotalTokenCost":  0.0020612499999999997
+    },
+    {
+        "NupkgName":  "KillSwitchBuild.nupkg.proj",
+        "InputTokenCost":  0.00034974999999999996,
+        "OutputTokenCost":  0.000638,
+        "TotalTokenCost":  0.00098775
+    },
+    {
+        "NupkgName":  "KustoAccess.nupkg.proj",
+        "InputTokenCost":  0.00029749999999999997,
+        "OutputTokenCost":  0.000588,
+        "TotalTokenCost":  0.0008855
+    },
+    {
+        "NupkgName":  "LegacyInventory.nupkg.proj",
+        "InputTokenCost":  0.0002945,
+        "OutputTokenCost":  0.000308,
+        "TotalTokenCost":  0.0006025
+    },
+    {
+        "NupkgName":  "lockbox.client.nupkg.proj",
+        "InputTokenCost":  0.000321,
+        "OutputTokenCost":  0.001954,
+        "TotalTokenCost":  0.002275
+    },
+    {
+        "NupkgName":  "LockboxReleaseTask.Client.nupkg.proj",
+        "InputTokenCost":  0.00028649999999999997,
+        "OutputTokenCost":  0.000466,
+        "TotalTokenCost":  0.00075249999999999991
+    },
+    {
+        "NupkgName":  "AcdcDnsRecordsReader.nupkg.csproj",
+        "InputTokenCost":  0.00031325,
+        "OutputTokenCost":  0.00094,
+        "TotalTokenCost":  0.00125325
+    },
+    {
+        "NupkgName":  "AcdcEntities.nupkg.proj",
+        "InputTokenCost":  0.0002915,
+        "OutputTokenCost":  0.00033,
+        "TotalTokenCost":  0.0006215
+    },
+    {
+        "NupkgName":  "AzureStorageClient.nupkg.proj",
+        "InputTokenCost":  0.000298,
+        "OutputTokenCost":  0.00113,
+        "TotalTokenCost":  0.001428
+    },
+    {
+        "NupkgName":  "CoreUtils.nupkg.proj",
+        "InputTokenCost":  0.00031549999999999997,
+        "OutputTokenCost":  0.000694,
+        "TotalTokenCost":  0.0010095
+    },
+    {
+        "NupkgName":  "DeviceTemplatesConfiguration.nupkg.proj",
+        "InputTokenCost":  0.00029075,
+        "OutputTokenCost":  0.000842,
+        "TotalTokenCost":  0.00113275
+    },
+    {
+        "NupkgName":  "DnsApiClient.nupkg.proj",
+        "InputTokenCost":  0.00030675,
+        "OutputTokenCost":  0.00101,
+        "TotalTokenCost":  0.00131675
+    },
+    {
+        "NupkgName":  "DnsStoreOperations.nupkg.proj",
+        "InputTokenCost":  0.00024024999999999999,
+        "OutputTokenCost":  0.00058599999999999993,
+        "TotalTokenCost":  0.00082624999999999994
+    },
+    {
+        "NupkgName":  "ExchangeBranchConnect.nupkg.proj",
+        "InputTokenCost":  0.00029225,
+        "OutputTokenCost":  0.00045799999999999997,
+        "TotalTokenCost":  0.00075024999999999994
+    },
+    {
+        "NupkgName":  "HardwareProxyClient.nupkg.proj",
+        "InputTokenCost":  0.00029125,
+        "OutputTokenCost":  0.00096999999999999994,
+        "TotalTokenCost":  0.00126125
+    },
+    {
+        "NupkgName":  "KustoFactory.nupkg.proj",
+        "InputTokenCost":  0.0002915,
+        "OutputTokenCost":  0.00083999999999999993,
+        "TotalTokenCost":  0.0011315
+    },
+    {
+        "NupkgName":  "Nexus.nupkg.proj",
+        "InputTokenCost":  0.00037299999999999996,
+        "OutputTokenCost":  0.001646,
+        "TotalTokenCost":  0.002019
+    },
+    {
+        "NupkgName":  "ServiceRegistry.nupkg.proj",
+        "InputTokenCost":  0.00029099999999999997,
+        "OutputTokenCost":  0.000328,
+        "TotalTokenCost":  0.000619
+    },
+    {
+        "NupkgName":  "VstsClient.nupkg.proj",
+        "InputTokenCost":  0.00029075,
+        "OutputTokenCost":  0.00096999999999999994,
+        "TotalTokenCost":  0.00126075
+    },
+    {
+        "NupkgName":  "WinSnmpApi.nupkg.proj",
+        "InputTokenCost":  0.0003015,
+        "OutputTokenCost":  0.00049199999999999992,
+        "TotalTokenCost":  0.00079349999999999993
+    },
+    {
+        "NupkgName":  "WmiDnsClient.nupkg.proj",
+        "InputTokenCost":  0.00030724999999999996,
+        "OutputTokenCost":  0.001268,
+        "TotalTokenCost":  0.00157525
+    },
+    {
+        "NupkgName":  "CPERepairAnalyzer.nupkg.proj",
+        "InputTokenCost":  0.00029874999999999997,
+        "OutputTokenCost":  0.00084399999999999992,
+        "TotalTokenCost":  0.0011427499999999999
+    },
+    {
+        "NupkgName":  "CPERepairAudit.nupkg.proj",
+        "InputTokenCost":  0.00029575,
+        "OutputTokenCost":  0.00095999999999999992,
+        "TotalTokenCost":  0.00125575
+    },
+    {
+        "NupkgName":  "MonitoringCPEv2.nupkg.proj",
+        "InputTokenCost":  0.00032025,
+        "OutputTokenCost":  0.0019,
+        "TotalTokenCost":  0.00222025
+    },
+    {
+        "NupkgName":  "Onefleet.EcsClient.nupkg.proj",
+        "InputTokenCost":  0.0003025,
+        "OutputTokenCost":  0.00045799999999999997,
+        "TotalTokenCost":  0.00076049999999999989
+    },
+    {
+        "NupkgName":  "RepairManagementSDK.nupkg.proj",
+        "InputTokenCost":  0.00036524999999999996,
+        "OutputTokenCost":  0.00189,
+        "TotalTokenCost":  0.00225525
+    },
+    {
+        "NupkgName":  "OobmToolKit.nupkg.proj",
+        "InputTokenCost":  0.00030274999999999996,
+        "OutputTokenCost":  0.000494,
+        "TotalTokenCost":  0.00079674999999999993
+    },
+    {
+        "NupkgName":  "Sdk.nupkg.proj",
+        "InputTokenCost":  0.00039224999999999997,
+        "OutputTokenCost":  0.001196,
+        "TotalTokenCost":  0.00158825
+    },
+    {
+        "NupkgName":  "ComponentFlightingLibrary.nupkg.proj",
+        "InputTokenCost":  0.000298,
+        "OutputTokenCost":  0.00082,
+        "TotalTokenCost":  0.001118
+    },
+    {
+        "NupkgName":  "Ecs.Workflows.nupkg.proj",
+        "InputTokenCost":  0.000288,
+        "OutputTokenCost":  0.00073,
+        "TotalTokenCost":  0.001018
+    },
+    {
+        "NupkgName":  "AutoRollingAzure.nupkg.proj",
+        "InputTokenCost":  0.00034225,
+        "OutputTokenCost":  0.001406,
+        "TotalTokenCost":  0.0017482499999999998
+    },
+    {
+        "NupkgName":  "SecureCode.Common.nupkg.proj",
+        "InputTokenCost":  0.00029874999999999997,
+        "OutputTokenCost":  0.001222,
+        "TotalTokenCost":  0.00152075
+    },
+    {
+        "NupkgName":  "RepeatableLocalPassword.nupkg.proj",
+        "InputTokenCost":  0.00039175,
+        "OutputTokenCost":  0.00219,
+        "TotalTokenCost":  0.0025817500000000003
+    },
+    {
+        "NupkgName":  "TLSConfigurationV5b.nupkg.proj",
+        "InputTokenCost":  0.00030925,
+        "OutputTokenCost":  0.0015019999999999999,
+        "TotalTokenCost":  0.00181125
+    },
+    {
+        "NupkgName":  "TLSConfigurationV5e.nupkg.proj",
+        "InputTokenCost":  0.00030925,
+        "OutputTokenCost":  0.00099,
+        "TotalTokenCost":  0.00129925
+    },
+    {
+        "NupkgName":  "TLSConfigurationV5f.nupkg.proj",
+        "InputTokenCost":  0.00030925,
+        "OutputTokenCost":  0.001246,
+        "TotalTokenCost":  0.00155525
+    },
+    {
+        "NupkgName":  "CredSMARTAzureSdk.nupkg.proj",
+        "InputTokenCost":  0.0003635,
+        "OutputTokenCost":  0.00164,
+        "TotalTokenCost":  0.0020035
+    },
+    {
+        "NupkgName":  "CredSMARTForCosmic.nupkg.proj",
+        "InputTokenCost":  0.00030399999999999996,
+        "OutputTokenCost":  0.0010119999999999999,
+        "TotalTokenCost":  0.001316
+    },
+    {
+        "NupkgName":  "DmsSdk.nupkg.proj",
+        "InputTokenCost":  0.00068799999999999992,
+        "OutputTokenCost":  0.0062359999999999994,
+        "TotalTokenCost":  0.006924
+    },
+    {
+        "NupkgName":  "FIDO2MetadataService.nupkg.proj",
+        "InputTokenCost":  0.0003015,
+        "OutputTokenCost":  0.0013939999999999998,
+        "TotalTokenCost":  0.0016955
+    },
+    {
+        "NupkgName":  "FIDO2WebAuthNProtocol.nupkg.proj",
+        "InputTokenCost":  0.0003035,
+        "OutputTokenCost":  0.00089399999999999994,
+        "TotalTokenCost":  0.0011975
+    },
+    {
+        "NupkgName":  "torus.nupkg.proj",
+        "InputTokenCost":  0.0017985,
+        "OutputTokenCost":  0.01602,
+        "TotalTokenCost":  0.0178185
+    },
+    {
+        "NupkgName":  "toruspacked.nupkg.proj",
+        "InputTokenCost":  0.00030475,
+        "OutputTokenCost":  0.000856,
+        "TotalTokenCost":  0.0011607499999999999
+    },
+    {
+        "NupkgName":  "torus.sdk.nupkg.proj",
+        "InputTokenCost":  0.00082,
+        "OutputTokenCost":  0.004096,
+        "TotalTokenCost":  0.004916
+    },
+    {
+        "NupkgName":  "SecretsBootstrapper.nupkg.proj",
+        "InputTokenCost":  0.00032675,
+        "OutputTokenCost":  0.002714,
+        "TotalTokenCost":  0.00304075
+    },
+    {
+        "NupkgName":  "SubstrateApp.sdk.nupkg.proj",
+        "InputTokenCost":  0.000385,
+        "OutputTokenCost":  0.0026579999999999998,
+        "TotalTokenCost":  0.0030429999999999997
+    },
+    {
+        "NupkgName":  "SubstrateDeployment.nupkg.proj",
+        "InputTokenCost":  0.0005175,
+        "OutputTokenCost":  0.0037259999999999997,
+        "TotalTokenCost":  0.0042435
+    },
+    {
+        "NupkgName":  "SubstrateDeploymentPacked.nupkg.proj",
+        "InputTokenCost":  0.00030649999999999997,
+        "OutputTokenCost":  0.00085799999999999993,
+        "TotalTokenCost":  0.0011645
+    },
+    {
+        "NupkgName":  "Torus.NetCore.nupkg.proj",
+        "InputTokenCost":  0.00063925,
+        "OutputTokenCost":  0.002924,
+        "TotalTokenCost":  0.00356325
+    },
+    {
+        "NupkgName":  "TorusAzureManagement.sdk.nupkg.proj",
+        "InputTokenCost":  0.000386,
+        "OutputTokenCost":  0.0017599999999999998,
+        "TotalTokenCost":  0.002146
+    },
+    {
+        "NupkgName":  "TorusBuild.nupkg.proj",
+        "InputTokenCost":  0.00062924999999999993,
+        "OutputTokenCost":  0.004096,
+        "TotalTokenCost":  0.0047252499999999994
+    },
+    {
+        "NupkgName":  "TorusClientHostIds.nupkg.proj",
+        "InputTokenCost":  0.0003235,
+        "OutputTokenCost":  0.00098399999999999985,
+        "TotalTokenCost":  0.0013074999999999999
+    },
+    {
+        "NupkgName":  "TorusClientV2.nupkg.proj",
+        "InputTokenCost":  0.0007905,
+        "OutputTokenCost":  0.005392,
+        "TotalTokenCost":  0.0061825000000000005
+    },
+    {
+        "NupkgName":  "TorusCommonInterfaces.nupkg.proj",
+        "InputTokenCost":  0.00029975,
+        "OutputTokenCost":  0.000736,
+        "TotalTokenCost":  0.00103575
+    },
+    {
+        "NupkgName":  "TorusMiniWorker.nupkg.proj",
+        "InputTokenCost":  0.000305,
+        "OutputTokenCost":  0.0006,
+        "TotalTokenCost":  0.000905
+    },
+    {
+        "NupkgName":  "WorkflowSecurity.nupkg.proj",
+        "InputTokenCost":  0.00035525,
+        "OutputTokenCost":  0.001658,
+        "TotalTokenCost":  0.00201325
+    },
+    {
+        "NupkgName":  "zippedsdpacked.nupkg.proj",
+        "InputTokenCost":  0.00030724999999999996,
+        "OutputTokenCost":  0.00086199999999999992,
+        "TotalTokenCost":  0.00116925
+    },
+    {
+        "NupkgName":  "zippedtoruspacked.nupkg.proj",
+        "InputTokenCost":  0.000306,
+        "OutputTokenCost":  0.001242,
+        "TotalTokenCost":  0.0015480000000000001
+    },
+    {
+        "NupkgName":  "WinPE.nupkg.proj",
+        "InputTokenCost":  0.00032974999999999997,
+        "OutputTokenCost":  0.000914,
+        "TotalTokenCost":  0.00124375
+    },
+    {
+        "NupkgName":  "ClrSecurity.Cryptography.nupkg.proj",
+        "InputTokenCost":  0.000294,
+        "OutputTokenCost":  0.000576,
+        "TotalTokenCost":  0.00087
+    },
+    {
+        "NupkgName":  "SignedPackageSample.nupkg.proj",
+        "InputTokenCost":  0.000306,
+        "OutputTokenCost":  0.000692,
+        "TotalTokenCost":  0.000998
+    },
+    {
+        "NupkgName":  "WorkflowLateBindingGenerator.nupkg.proj",
+        "InputTokenCost":  0.00031549999999999997,
+        "OutputTokenCost":  0.002146,
+        "TotalTokenCost":  0.0024614999999999997
+    }
+]

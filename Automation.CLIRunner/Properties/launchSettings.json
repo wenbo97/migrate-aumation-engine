@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "ATCli - nupkg analyze": {
+      "commandName": "Project",
+      "commandLineArgs": "nupkg analyze -f C:\\src\\ControlPlane"
+    }
+  }
+}

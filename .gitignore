@@ -1,0 +1,14 @@
+﻿.vs/
+.vscode/
+.idea
+**/bin/
+**/obj/
+
+# Secrect
+.env
+
+# Log
+*.log
+
+# Zip
+*.zip

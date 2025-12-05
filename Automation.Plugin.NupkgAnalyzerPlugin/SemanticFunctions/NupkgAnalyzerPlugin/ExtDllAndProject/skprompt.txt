@@ -1,0 +1,64 @@
+﻿<message role="system">
+- This function is going to find which assemblies and projects have referenced in a nupkg file content.
+- Find all assemblies and projects and return with the following JSON style
+{
+    "packagedProjects":[],
+    "packagedAssemblies":[]
+}
+- When parsing the `packagedProjects` field, replace all backslashes (`\`) with forward slashes (`/`).
+</message>
+
+<message role="user">
+<ItemGroup>
+  <Content Include="$(TargetPathDir)\dev\assemblyline\DROP\$(FlavorPlatformDir)\DONE\net472\Microsoft.Office.Datacenter.AssemblyLine.HADagConfigurations.dll">
+    <Link>lib\Microsoft.Office.Datacenter.AssemblyLine.HADagConfigurations.dll</Link>
+  </Content>
+  <Content Include="$(TargetPathDir)\dev\assemblyline\DROP\$(FlavorPlatformDir)\DONE\net472\Microsoft.Office.Datacenter.AssemblyLine.Allocation.dll">
+    <Link>lib\Microsoft.Office.Datacenter.AssemblyLine.Allocation.dll</Link>
+  </Content>
+</ItemGroup>
+</message>
+<message role="assistant">
+{
+    "packagedProjects":[],
+    "packagedAssemblies":["Microsoft.Office.Datacenter.AssemblyLine.HADagConfigurations.dll","Microsoft.Office.Datacenter.AssemblyLine.Allocation.dll"]
+}
+</message>
+
+<message role="user">
+<ItemGroup>
+  <Content Include="$(DROPROOT)\DONE\net472\Microsoft.Datacenter.SubStrate.Security.dll">
+    <Link>lib\net45\Microsoft.Datacenter.SubStrate.Security.dll</Link>
+  </Content>
+  <Content Include="$(DROPROOT)\DONE\net472\Microsoft.Datacenter.Substrate.ServiceProcess.dll">
+    <Link>lib\net45\Microsoft.Datacenter.Substrate.ServiceProcess.dll</Link>
+  </Content>
+  <Content Include="$(DROPROOT)\DONE\net472\Microsoft.M365.Security.CredSMART.dll">
+    <Link>lib\net45\Microsoft.M365.Security.CredSMART.dll</Link>
+  </Content>
+  <Content Include="$(DROPROOT)\DONE\net472\Microsoft.Office.Datacenter.Torus.Interop.dll">
+    <Link>lib\net45\Microsoft.Office.Datacenter.Torus.Interop.dll</Link>
+  </Content>
+  <Content Include="$(TargetPathDir)dev\deployment\configuration.multitenant.griffin\bin\$(Configuration)\net472\configuration.multitenant.griffin.dll">
+    <Link>lib\net45\configuration.multitenant.griffin.dll</Link>
+  </Content>
+  <Content Include="README.TXT">
+    <Link>README.TXT</Link>
+  </Content>
+  <ProjectReference Include="$(INETROOT)\sources\dev\Deployment\src\Configuration\Multitenant\Griffin\Configuration.Multitenant.Griffin.csproj" />
+  <ProjectReference Include="$(INETROOT)\sources\dev\Torus\src\CredSMART\CredSMART.csproj" AdditionalProperties="TargetFramework=net472" />
+  <ProjectReference Include="$(INETROOT)\sources\dev\Torus\src\Interop\Interop.csproj" AdditionalProperties="TargetFramework=net472" />
+  <ProjectReference Include="$(INETROOT)\sources\dev\Torus\src\SubstrateSecurity\SubstrateSecurity.csproj" AdditionalProperties="TargetFramework=net472" />
+  <ProjectReference Include="$(INETROOT)\sources\dev\Torus\src\SubstrateServiceProcess\SubstrateServiceProcess.csproj" AdditionalProperties="TargetFramework=net472" />
+  </ItemGroup>
+</message>
+<message role="assistant">
+{
+    "packagedProjects":["sources/dev/Deployment/src/Configuration/Multitenant/Griffin/Configuration.Multitenant.Griffin.csproj", "sources/dev/Torus/src/CredSMART/CredSMART.csproj", "sources/dev/Torus/src/Interop/Interop.csproj","sources/dev/Torus/src/SubstrateSecurity/SubstrateSecurity.csproj", "sources/dev/Torus/src/SubstrateServiceProcess/SubstrateServiceProcess.csproj"],
+    "packagedAssemblies":["Microsoft.Datacenter.SubStrate.Security.dll","Microsoft.Datacenter.Substrate.ServiceProcess.dll","Microsoft.M365.Security.CredSMART.dll", "Microsoft.Office.Datacenter.Torus.Interop.dll", "Configuration.Multitenant.Griffin.dll"]
+}
+</message>
+
+<message role="user">
+{{$nupkgContent}}
+</message>

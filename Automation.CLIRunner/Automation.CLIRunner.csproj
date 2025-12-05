@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>Automation.CliRunner</RootNamespace>
+        <AssemblyName>ATCli</AssemblyName>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Content Include="..\.env" CopyToOutputDirectory="PreserveNewest"/>
+        <Content Include="..\AppSetting.json" CopyToOutputDirectory="PreserveNewest"/>
+        <None Remove="TaskMarkdown\nupkg-analyze\nupkg-analyze.md" />
+        <Content Include="TaskMarkdown\nupkg-analyze\nupkg-analyze.md">
+          <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <None Remove="TaskMarkdown\nupkg-analyze\Find-Nupkg.ps1" />
+        <Content Include="TaskMarkdown\nupkg-analyze\Find-Nupkg.ps1">
+          <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="System.CommandLine" />
+        <PackageReference Include="DotNetEnv" />
+        <PackageReference Include="Microsoft.Agents.AI.OpenAI" />
+        <PackageReference Include="Microsoft.Agents.AI.Hosting.OpenAI" />
+        <PackageReference Include="Microsoft.SemanticKernel.Agents.OpenAI" />
+        <PackageReference Include="Serilog"/>
+        <PackageReference Include="Serilog.Sinks.File"/>
+        <PackageReference Include="Serilog.Sinks.Console"/>
+        <PackageReference Include="Serilog.Extensions.Logging"/>
+        
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Automation.DotnetUpgradeWorkflow\Automation.DotnetUpgradeWorkflow.csproj" />
+      <ProjectReference Include="..\Automation.KernelProvider\Automation.KernelProvider.csproj" />
+    </ItemGroup>
+</Project>

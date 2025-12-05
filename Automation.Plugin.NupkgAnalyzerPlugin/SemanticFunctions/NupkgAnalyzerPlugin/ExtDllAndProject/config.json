@@ -1,0 +1,17 @@
+﻿{
+  "schema": 1,
+  "description": "Find out which assemblies and projects are referenced in a nupkg config file by its content.",
+  "execution_settings": {
+    "default": {
+      "max_tokens": 2048
+    }
+  },
+  "input_variables": [
+    {
+      "name": "nupkgContent",
+      "description": "Nupkg xml file content",
+      "default": "",
+      "is_required": true
+    }
+  ]
+}
